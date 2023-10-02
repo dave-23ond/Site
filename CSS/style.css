@@ -1,0 +1,19 @@
+.we{
+    text-align: center;
+}
+div img{
+    width: 100%;
+    height: 200px;
+}
+.head{
+    border: double 3px crimson;
+    color: white;
+    background: black;
+}
+body {
+    background: black;
+    color: white;
+}
+a{
+    font-weight: bolder;
+}
